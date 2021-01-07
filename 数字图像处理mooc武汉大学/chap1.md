@@ -6,7 +6,7 @@
 
    ​	模拟图像：可用连续函数来描述。其特点：光照位置和光照强度均为连续变化的。
 
-   ​					![Q46R0{91$%8LBOTVYGD87K9](C:\Users\Jucieonion\Desktop\notes\images\Q46R0{91$%8LBOTVYGD87K9.png)	
+   ​						![数字图像](../images/数字图像.png)
 
 2. 
 
